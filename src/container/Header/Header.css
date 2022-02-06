@@ -1,5 +1,5 @@
 .app__header{
-	background-color: var(--color-black)
+	background-color: var(--color-black);
 }
 .app__header-h1{
 	font-family: var(--font-base);
@@ -11,5 +11,5 @@
 	font-weight: 700;
 }
 .app__header-img{
-
+	width: 80%;
 }

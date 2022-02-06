@@ -28,7 +28,7 @@
 }
 
 .app__aboutus-content_knife img {
-    height: 910px;
+    height: 600px;
 }
 
 .app__aboutus-content_history {
@@ -49,7 +49,7 @@
 
 @media screen and (min-width: 2000px) {
     .app__aboutus-content_knife img {
-        height: 1110px;
+        height: 810px;
     }
 
     .app__aboutus-content_about p,
