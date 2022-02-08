@@ -14,9 +14,9 @@ const Chef = () => (
     	<h1 className="headtext__cormorant">What We Believe In</h1>
     	<div className="app__chef-content_quote">
     		<img src={images.quote} alt="quote"/>
-    		<p className="p__opensans">Lorem Ipsum</p>
+    		<p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed gravida sapien, quis luctus enim. Fusce tellus urna, tincidunt .</p>
     	</div>
-    	<p className="p__opensans">Rest of the citation</p>
+    	<p className="p__opensans">Duis dolor metus, euismod sed dapibus id, porta sit amet quam. Donec fringilla elementum consequat. Vestibulum feugiat pretium purus at placerat. Praesent commodo nunc turpis, a rutrum mauris fringilla quis</p>
   	</div> 
 
   	<div className="app__chef-sign">
